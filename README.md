@@ -7,7 +7,13 @@
  https://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled.c
   
 ---
-  
+
+## 動作環境
+
+　Ubuntu 18.04
+
+---
+
 ## 用意する物
   
 ・Raspberry Pi 4 ModelB  
