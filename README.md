@@ -4,7 +4,7 @@
 ## 課題内容 
   
  課題: 講義で作ったデバイスドライバを改造して、LEDやモータ、あるいはその他なにかデバイスを動かせるようにして、動かしている様子を動画に撮影する。
- https://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled.c
+ (講義中に作成したドライバhttps://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled.c)
   
 ---
 
