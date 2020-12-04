@@ -49,7 +49,6 @@ $ sudo chmod 666 /dev/myled0
 $ sudo [0 or 1 or 2 or 3] > /dev/myled0
 
 
-```
 
 ## 動画
   プログラムを実行したデバイスドライバの様子：https://youtu.be/rb4S0RL8nXA
