@@ -35,7 +35,6 @@
  $ echo 2 > /dev/myled0 : LED2回点滅  
  $ echo 3 > /dev/myled0 : LED3回点滅  
   
----
   
 ## 実行手順
   
