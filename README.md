@@ -1,4 +1,4 @@
-###ロボットシステム学 課題1
+##ロボットシステム学 課題1
 ---
 
 ## 課題内容 
@@ -13,7 +13,7 @@
 ・Raspberry Pi 4 ModelB  
 ・ブレッドボード  
 ・LED 2個
-・ジャンパー線　7本
+・ジャンパー線　7本  
 ・抵抗220Ω　2個
 
   
@@ -21,13 +21,13 @@
   
 ## 改造内容
   
-　2つのLEDが同時に短い間隔で2回3回と点滅するように改造しました。
+　2つのLEDが同時に短い間隔で2回3回と点滅するように改造しました。  
 
  
- $ echo 0 > /dev/myled0 : LEDの消灯
- $ echo 1 > /dev/myled0 : LEDの点灯
- $ echo 2 > /dev/myled0 : LED2回点滅
- $ echo 3 > /dev/myled0 : LED3回点滅
+ $ echo 0 > /dev/myled0 : LEDの消灯  
+ $ echo 1 > /dev/myled0 : LEDの点灯  
+ $ echo 2 > /dev/myled0 : LED2回点滅  
+ $ echo 3 > /dev/myled0 : LED3回点滅  
   
 ---
   
