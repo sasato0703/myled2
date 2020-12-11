@@ -31,8 +31,8 @@
 
  
  
- `$ echo 0 > /dev/myled0`: LEDの消灯  
- `$ echo 1 > /dev/myled0`: LEDの点灯  
+ `$ echo 0 > /dev/myled0` : LEDの消灯  
+ `$ echo 1 > /dev/myled0` : LEDの点灯  
  `$ echo 2 > /dev/myled0` : LED2回点滅  
  `$ echo 3 > /dev/myled0` : LED3回点滅  
   
