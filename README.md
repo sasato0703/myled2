@@ -41,12 +41,12 @@
   
 実行する手順は以下の通りです。  
 
-`$ git clone https://github.com/sasato0703/myled2.git ` 
-`$ cd myled2  `
-`$ make  `
-`$ sudo insmod myled.ko ` 
-`$ sudo chmod 666 /dev/myled0  `
-`$ sudo [0 or 1 or 2 or 3] > /dev/myled0`  
+`$ git clone https://github.com/sasato0703/myled2.git `  
+`$ cd myled2  `  
+`$ make  `  
+`$ sudo insmod myled.ko `  
+`$ sudo chmod 666 /dev/myled0  `  
+`$ sudo [0 or 1 or 2 or 3] > /dev/myled0`   
 
 ---
 
